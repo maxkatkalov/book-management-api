@@ -7,9 +7,8 @@ Book Management API  was created for the purpose of testing coding skills for VR
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [DB scheme](https://monosnap.com/file/rLG56LIZWY1h6Rsa29PjaRvvL2Jrqc)
+- [DB scheme](https://monosnap.com/file/YcofAa0P81QRZ9BPuGiXpvAnucpSWd)
 - [Online demo](#online-demo)
-- [User permissions](#user-permissions)
 
 ## Getting Started
 
