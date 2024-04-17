@@ -45,7 +45,7 @@ These instruction will help you get a copy of the project up and running on your
 3. Create a .env file and configure the environment variables required by your project. You can use the provided .env.example as a starting point.
 
    ```shell
-   cp .env.example .env
+   cp .env.sample .env
 
 4. Start the Docker daemon on your machine. Build and start the Docker containers:
 
